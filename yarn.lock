@@ -620,7 +620,7 @@ async-eventemitter@^0.2.2:
   dependencies:
     async "^2.4.0"
 
-"async-eventemitter@github:ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c":
+async-eventemitter@ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c:
   version "0.2.3"
   resolved "https://codeload.github.com/ahultgren/async-eventemitter/tar.gz/fa06e39e56786ba541c180061dbf2c0a5bbf951c"
   dependencies:
@@ -5456,7 +5456,6 @@ ws@^3.0.0:
 
 "wyvern-js@git+https://github.com/ProjectOpenSea/wyvern-js.git#v3.3.4":
   version "3.2.0"
-  uid "06d291e1a111ec1726ad4e605b571b45e13232de"
   resolved "git+https://github.com/ProjectOpenSea/wyvern-js.git#06d291e1a111ec1726ad4e605b571b45e13232de"
   dependencies:
     "0x.js" "^0.29.2"
